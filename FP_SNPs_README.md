@@ -33,7 +33,7 @@ docker run \
   python3 reformat_script.py \
   --input /python_script/data/FP_SNPs_10k_GB38_twoAllelsFormat.tsv \
   --output /python_script/data/output_SNP.tsv \
-  --ref_dir /python_script/ref/GRCh38.d1.vd1_mainChr
+  --ref_dir /python_script/ref/GRCh38.d1.vd1_mainChr/sepChrs/
 ```
 
 ## Предподготовка входного файла.
